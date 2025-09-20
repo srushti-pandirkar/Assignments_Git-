@@ -1,6 +1,9 @@
-Devops tools 
-===============
+Devops tools
+=============== 
 Linux 
 shell scripting 
 git 
-GitHub 
+GitHub
+biuld tool 
+ansebile 
+java
