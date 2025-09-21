@@ -1,9 +1,12 @@
-Devops tools
-=============== 
-Linux 
+Devops tools 
+===============
+ Linux 
 shell scripting 
 git 
 GitHub
 biuld tool 
 ansebile 
-java
+java 
+Terraform
+AWS
+OpenTofu
